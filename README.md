@@ -32,7 +32,7 @@ The project harnesses a plethora of datasets, including:
   - Time series forecasting for identifying and projecting market trends
 
 ## Setup & Requirements
-(Typically, here you'd include instructions on how to set up the project, any required libraries or tools, and how to run the analysis scripts.)
+
 
 ## Results & Reports
 - Comprehensive insights into historical and current film industry trends.
@@ -43,4 +43,4 @@ The project harnesses a plethora of datasets, including:
 Instructions for contributing to the project, if it's open for contributions.
 
 ## License
-Details about the project's license (e.g., MIT, GPL, etc.)
+
